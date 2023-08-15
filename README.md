@@ -24,6 +24,8 @@ Heatsink: Ender 3 stock heatsink<br />
 Hotend: CHC Pro<br />
 Heatbreak: Bi-metal<br />
 Printbed: FYSETC v0 Heated bed<br />
+Sentinel toolhead with GX-H8A Inductive probe<br />
+<br />
 Fans:&nbsp;</p>
 
 <ul>
